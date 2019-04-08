@@ -9,3 +9,6 @@ for i in range(2, primeNum):
 		checkFlag = False
 if checkFlag:
 	print("{} is a prime number as it is only divisable by 1 and itself".format(primeNum))
+	
+	
+input()

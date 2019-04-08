@@ -12,3 +12,5 @@ def RemoveLoop(x):
 	return sorted(newList)
 dupli = RemoveLoop(a)
 print(dupli)
+
+input()
